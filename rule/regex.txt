@@ -1,4 +1,4 @@
-# Update time: 2025-01-22 09:15:12
+# Update time: 2025-01-22 20:32:00
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -161,6 +161,7 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||ad*.aginomoto.com
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -201,7 +202,6 @@ analytics-*.aasaam.com
 ||mon*-*.tiktokv.us^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
-||putrr*.com^
 ||cpng.lol.^
 ||alishop*.ru^
 ||pijama.*.elasticbeanstalk.com^
@@ -299,6 +299,7 @@ analytics-*.aasaam.com
 ||host*.rigbyandpeller.com^
 ||servo-report.keepstreams.*^
 ||tw*.netcore.co.in^
+||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
@@ -341,6 +342,7 @@ analytics-*.aasaam.com
 ||web-visor.
 ||1024wanzhai.
 ||under-click.
+||collector-*.px-client.net^
 ||log-*.epicdn.me^
 ||metric*.rediff.com^
 ||tnc*.zijieapi.com^
@@ -409,7 +411,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||ad*.aginomoto.com
 <script>
             pageOptions
     xhr.send();
@@ -439,6 +440,8 @@ body {
             }
         return arguments;
 }
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -469,6 +472,7 @@ body {
 ||vegaoo*.*^
 ||ads*-adnow.com^
 ||clkservice*.youdao.com^
+||putrr*.com^
 ||impservice*.youdao.com^
 ||d*.ruiwen.com^
 ||count*.pconline.com.cn^
@@ -540,12 +544,9 @@ body {
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
-||creative*.bidease.com^
 ||cj1*.online^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
