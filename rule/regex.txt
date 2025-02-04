@@ -1,4 +1,4 @@
-# Update time: 2025-02-03 20:31:41
+# Update time: 2025-02-04 09:13:56
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -171,6 +171,7 @@ analytics-*.aasaam.com
 ||teleriumads-*.netdna-ssl.com^
 ||adservice.google.
 |load.sst.
+||mssdk*.tiktokw.us^
 ||host*.carl-ras.dk^
 ||allsportsflix.
 ||log*-normal-*.tiktokv.us^
@@ -183,6 +184,8 @@ analytics-*.aasaam.com
 ||lt*.tritondigital.com^
 ||partner.superbahisaffiliates*.com^
 ||datacollect*.abtasty.com^
+||mon-*.lemon8-app.us^
+||mon-*.lemon8-app.com^
 ||v.tzbox*.xyz^
 ||telemetry*.transcend.io^
 ||cnt.vivatube.
@@ -194,7 +197,6 @@ analytics-*.aasaam.com
 ||flipflapflo.
 ||gonews*.net^
 ||real*traf.ru^
-||mssdk-*.tiktokw.us^
 ||f-log-*.grammarly.io^
 ||wa.gmx.
 ||pxl-*.ozone.ru^
@@ -241,6 +243,7 @@ analytics-*.aasaam.com
 ||tracking*.euroads.fi^
 ||a*.smlog.co.kr^
 ||track.zalando.
+||mcs-*.tiktok.com^
 ||seller-log-collector.shopee.
 ||subnewss*.net^
 ||t.delfi.
@@ -249,6 +252,7 @@ analytics-*.aasaam.com
 ||track.*.roku.com^
 ||device-metrics-*.amazon.com^
 ||rusrestbest.
+||mssdk*.tiktokv.us^
 ||v.newsportal*.ru^
 ||get-me-wow.
 ||mob*.novanewsapp.com^
@@ -258,6 +262,7 @@ analytics-*.aasaam.com
 ||poshalim.
 ||events*.cre.ma^
 ||pixel-*.rubiconproject.com^
+||mcs-*.lemon8-app.com^
 ||track.tiara.
 ||orbit*.lun.ua^
 ||popupclick.
@@ -271,10 +276,10 @@ analytics-*.aasaam.com
 ||sonar*.xy.fbcdn.net^
 ||cl*.k5a.io^
 ||mautic.*.vn^
+||mcs-*.lemon8-app.us^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
 ||mon*-platform-*.tiktokv.com^
-||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
 ||backstory.ebay.
@@ -290,6 +295,8 @@ analytics-*.aasaam.com
 ||eum*.instana.io^
 ||report.*.gbqofs.io^
 ||tnc16-*.byteoversea.com^
+||mssdk*.tiktok.com^
+||mssdk*.tiktokv.eu^
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
@@ -385,7 +392,6 @@ analytics-*.aasaam.com
 ||pixel.archive.
 ||log-*.zadn.vn^
 ||ad*.thisisgame.com^
-||collect-v*.51.la^
 ||q*-publick.club^
 ||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
@@ -396,6 +402,7 @@ analytics-*.aasaam.com
 ||snowplow-collector-*.amazonaws.com^
 ||ms*.applvn.com^
 ||thegreatesthits.
+||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||tracking-*.trnox.com^
 ||snowplow-collector.
@@ -408,41 +415,9 @@ analytics-*.aasaam.com
 ||rotator.
 ||pixel-*.convertagain.net^
 ||collector.xhamster*.
-||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
 ||ad*.aginomoto.com
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-			Buy this domain. | More domains at Seo.Domains
-                }
-            2025 Copyright.  All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<style>
-        ];
-<head>
-    Privacy Policy
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -545,6 +520,37 @@ body {
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+			Buy this domain. | More domains at Seo.Domains
+                }
+            2025 Copyright.  All Rights Reserved.
+                console.log(JSON.parse(xhr.responseText))
+<style>
+        ];
+<head>
+    Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
@@ -653,6 +659,7 @@ body {
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
+||collect-v*.51.la^
 ||n*adserv.xyz^
 ||adsfilebssdlbig.*.kugou.com^
 ||bdlm*.hc360.com^
@@ -664,7 +671,7 @@ body {
 ||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
-||iad-*.braze.com^
+||collector-*.tvsquared.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
@@ -682,6 +689,7 @@ body {
 ||analytics*.prezly.com^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
+||collector*.ex.co^
 ||analytics.*.sky.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
