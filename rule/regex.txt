@@ -1,4 +1,4 @@
-# Update time: 2025-02-17 20:33:31
+# Update time: 2025-02-18 09:15:05
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,6 +55,7 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -74,7 +75,6 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
@@ -169,13 +169,10 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
-||counter*.stat.ovh^
 |load.sst.
 ||mssdk*.tiktokw.us^
 ||host*.carl-ras.dk^
-||ads.livetv*.me^
 ||allsportsflix.
 ||log*-normal-*.tiktokv.us^
 ||iphone-caviar.ru*entranceId
@@ -216,6 +213,7 @@ analytics-*.aasaam.com
 ||banner*.kinogo.by^
 ||suite*.linximpulse.net^
 ||cnt.nuvid.
+||t*.playdigo.live^
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
 |load.ss.
@@ -244,6 +242,7 @@ analytics-*.aasaam.com
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
 ||tracking-v*.a.run.app^
+||hotapi*.tiktokv.us^
 ||tracking*.euroads.fi^
 ||a*.smlog.co.kr^
 ||track.zalando.
@@ -305,7 +304,6 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
 ||flurry.agentportal-*.yahoodns.net^
 ||zbb.bbb.*.pics^
 ||host*.rigbyandpeller.com^
@@ -360,6 +358,7 @@ analytics-*.aasaam.com
 ||tracker.twenga.
 ||cdn*.swaxis.com^
 ||srmdata-*.com^
+||use-trk*.bluevoox.com^
 ||adimg*.search.naver.net^
 ||log*.zijieapi.com^
 ||log*.aliyuncs.com^
@@ -427,6 +426,8 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||ad*.aginomoto.com
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 <script>
             pageOptions
     xhr.send();
@@ -456,8 +457,6 @@ body {
             }
         return arguments;
 }
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -704,13 +703,17 @@ body {
 ||analytics.*.sky.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
+||rgfftupf.
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||counter*.stat.ovh^
+||centent.streamp1ay.
+||ads.livetv*.me^
+||142.91.159.
+||fxhpaoxqyajvmdg.
 ||cintent.streanplay.
 Banner468x60
