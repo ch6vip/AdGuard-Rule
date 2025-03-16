@@ -1,4 +1,4 @@
-# Update time: 2025-03-15 20:30:31
+# Update time: 2025-03-16 09:24:36
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -162,6 +162,8 @@ advertisers.js|
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||ad*.aginomoto.com
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -264,8 +266,6 @@ advertisers.js|
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 <script>
             pageOptions
     xhr.send();
@@ -340,6 +340,7 @@ body {
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
+||tnc*.tiktokv.us^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
 ||report*.appmetrica.webvisor.com^
@@ -417,7 +418,6 @@ body {
 ||eum*.instana.io^
 ||report.*.gbqofs.io^
 ||ads*-normal-lq.zijieapi.com^
-||tnc16-*.byteoversea.com^
 ||fads*s.com^
 ||mssdk*.tiktok.com^
 ||ads-dmp-collect.*.karrotmarket.com^
@@ -538,6 +538,7 @@ body {
 ||aj2*.bid^
 ||analytics*.prezly.com^
 ||collector*.ex.co^
+||tnc16-*.byteoversea.com^
 ||adserver*.euroweeklynews.com^
 analytics-*.aasaam.com
 ||an.yandex.
@@ -612,7 +613,6 @@ analytics-*.aasaam.com
 ||marketplace-*.hyprmx.com^
 ||under-click.
 ||analytics.streamfab.
-||tnc*.tiktokv.us^
 ||log-collector.shopee.
 ||ad*.tmgrup.com.tr^
 ||goodadvert.
